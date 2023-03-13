@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=62929e&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=62929E&background=23202000&center=true&vCenter=true&width=435&lines=Hello%2C+My+Name+is+Gustavo+Felici+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+22+years+old;I+am+from+Uberl%C3%A2ndia%2C+MG;I+study+Information+Systems+at+UFU;Be+Welcome!)](https://git.io/typing-svg)
 
