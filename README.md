@@ -1,6 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=62929e&height=120&section=header"/>
-  
+![profile views](https://komarev.com/ghpvc/?username=GustavoFelici&style=flat-square)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=62929E&background=23202000&center=true&vCenter=true&width=435&lines=Hello%2C+My+Name+is+Gustavo+Felici+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+22+years+old;I+am+from+Uberl%C3%A2ndia%2C+MG;I+study+Information+Systems+at+UFU;Be+Welcome!)](https://git.io/typing-svg)
+
+## Hi there <img height='40px' src='https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330'>
+
+My name is Gustavo Felici. I'm an Entry-Level Data Professional from Brazil exploring Data Analysis and Science using Python as a primary programming language.
+
+<!-- linkedin, medium, zap, mail-->
+<div>
+  <a href='https://www.linkedin.com/in/gustavo-felici-a602a0176/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
+  <a href='https://wa.me/+5535998572869' target='_blank'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' target='_blank'></a>
+<hr>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoFelici&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Felici github stats" /> 
