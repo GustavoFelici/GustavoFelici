@@ -6,7 +6,7 @@
 
 My name is Gustavo Felici. I'm an Entry-Level Data Professional from Brazil exploring Data Analysis and Science using Python as a primary programming language.
 
-![banner](src/banner.gif)
+![banner](https://media.tenor.com/qxgoeVscCNAAAAAd/corgi-computer.gif)
 
 <!-- linkedin, zap, mail-->
 <div>
