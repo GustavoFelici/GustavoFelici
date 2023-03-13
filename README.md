@@ -11,6 +11,9 @@ My name is Gustavo Felici. I'm an Entry-Level Data Professional from Brazil expl
 <div>
   <a href='https://www.linkedin.com/in/gustavo-felici-a602a0176/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
   <a href='https://wa.me/+5535998572869' target='_blank'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' target='_blank'></a>
+  target='_blank'></a>
+  <a href='mailto:gustavo_felici@hotmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+</div>
 <hr>
 
 <div align="center">  
