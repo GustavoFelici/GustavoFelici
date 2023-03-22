@@ -17,7 +17,7 @@ My name is Gustavo Felici. I'm an Entry-Level Data Professional from Brazil expl
 <hr>
 
 - 👨‍💻 I'm currently working on **Machine Learning** with classification and regression models and **Business Intelligence** with Power BI
-- 🌱 I'm currently learning on time series models
+- 🌱 I'm currently learning on **time series** models
 - ⚡ Fun fact: ❤️ 🐕 dogs | 📝 rpg | 🏋️‍♂️gym | 🏍️ motocross
 
 ## [Latest Personal Data Projects](https://github.com/GustavoFelici/Data-Science)
