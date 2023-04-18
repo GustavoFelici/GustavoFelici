@@ -24,7 +24,7 @@ My name is Gustavo Felici. I'm an Entry-Level Data Professional from Brazil expl
 
 ## Skills
 
-* Python, SQL, Web Scraping, Data Manipulation/Treatment/Analysis, Machine Learnin, Stats and Business Intelligence.
+* Python, SQL, Web Scraping, Data Manipulation/Treatment/Analysis, Machine Learning, Stats and Business Intelligence.
 * **Planning**: TensorFLow, Data Warehouse & Lake... searching for more...
 
 ## Tools
